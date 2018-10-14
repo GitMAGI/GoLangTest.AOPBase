@@ -8,7 +8,7 @@ import (
 	"github.com/gogap/aop"
 )
 
-const AppName string = "RollBackAPICall"
+const AppName string = "AOPBase"
 
 var callBaseProxy *aop.Proxy
 
